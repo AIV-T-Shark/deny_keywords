@@ -1,14 +1,13 @@
-nguy hiểm,Blut,Máu me,de
-nguy hiểm,Menschlicher Oder Tierischer Abfall,Chất thải của con người hoặc động vật,de
+nguy hiểm,Menschliche oder tierische Exkremente,Chất thải của con người hoặc động vật,de
 nguy hiểm,Tatort Oder Unfall,Hiện trường vụ án hoặc tai nạn,de
 nguy hiểm,Explosionen,Vụ nổ,de
 nguy hiểm,Selbstmordattentäter,Đánh bom liều chết,de
 nguy hiểm,Nagelbomben,Bom đinh,de
 nguy hiểm,Chemische Bomben,Bom hóa học,de
 nguy hiểm,Granaten,Lựu đạn,de
-nguy hiểm,Feuerwerkskörper,Pháo nổ,de
-nguy hiểm,Anleitungen Zum Bombenbau,Hướng dẫn chế tạo bom,de
-nguy hiểm,3D-Gedruckte Waffen,Súng in 3D,de
+nguy hiểm,Knallkörper,Pháo nổ,de
+nguy hiểm,Anleitungen zur Bombenherstellung,Hướng dẫn chế tạo bom,de
+nguy hiểm,3D-Druck hergestellte Waffen,Súng in 3D,de
 nguy hiểm,Bb-Waffen,Súng BB,de
 nguy hiểm,Softair-Waffen,Súng hơi hạng nhẹ,de
 nguy hiểm,Munition,Đạn dược,de
@@ -51,7 +50,7 @@ nguy hiểm,Suizidmethoden,Các phương pháp tự tử,de
 nguy hiểm,Waffenkammer,Kho vũ khí,de
 nguy hiểm,Misshandlung,Đánh đập phụ nữ,de
 nguy hiểm,Ethnische Säuberung,Thanh lọc sắc tộc,de
-nguy hiểm,Schwarze,Người da đen,de
+nguy hiểm,Schwarze menschen,Người da đen,de
 nguy hiểm,Weiße Rassisten,Những người theo chủ nghĩa tối cao da trắng,de
 nguy hiểm,Sektiererische Morde,Giết người theo giáo phái,de
 nguy hiểm,Extremismus,Chủ nghĩa cực đoan,de
@@ -63,34 +62,31 @@ nguy hiểm,Kinderhandel,Buôn bán trẻ em,de
 nguy hiểm,Dreckige Bombe,Bom bẩn,de
 nguy hiểm,Amoklauf,"Hung hăng, Xả súng hàng loạt",de
 nguy hiểm,Pro-Nazi,Ủng hộ Đức Quốc Xã,de
-nguy hiểm,Blut und Boden,Máu và đất,de
 tình dục,Sexuelle Orientierung,Xu hướng tình dục,de
 tình dục,Gesäß,Mông,de
-tình dục,Schritt,Vòng eo,de
+tình dục,Hüfte,Hông,de
 tình dục,Erotische Kunst,Nghệ thuật khiêu dâm,de
-tình dục,Sexueller Körper,Cơ thể gợi dục,de
+tình dục,Sexuelle Aktivität,Hoạt động tình dục,de
 tình dục,Sexuelle Flüssigkeiten,Chất lỏng tình dục,de
-tình dục,Voyeurismus,Chủ nghĩa say mê,de
-tình dục,Sadomasochismus,Bạo dâm,de
-tình dục,Dominanz Und Unterwerfung,Thống trị và phục tùng,de
-tình dục,Knechtschaft,Trói buộc,de
+tình dục,Tirkistely,Chủ nghĩa say mê,de
+tình dục,Sadistisch,Bạo dâm,de
+tình dục,Erotischen Herrschaft,Thống trị khiêu dâm,de
+tình dục,Fesselung,Trói buộc,de
 tình dục,Rollenspiel,Nhập vai,de
 tình dục,Pornografische Filmfestivals,Liên hoan phim khiêu dâm,de
 tình dục,Webcam-Dienste Für Erwachsene,Dịch vụ webcam cho người lớn,de
-tình dục,Strip-Clubs,Câu lạc bộ thoát y,de
+tình dục,Striptease-Clubs,Câu lạc bộ thoát y,de
 tình dục,Sexspielzeug,Đồ chơi tình dục,de
 tình dục,Persönliche Gleitmittel,Chất bôi trơn cá nhân,de
-tình dục,Werkzeuge Zur Genitalverbesserung,Công cụ nâng cao bộ phận sinh dục,de
-tình dục,Affäre,Ngoại tình,de
-tình dục,Swinger,Tán gái,de
-tình dục,Hook Up Oder Fling Dating,Hẹn hò tán tỉnh,de
+tình dục,Luststeigerung,Tăng khoái cảm,de
+tình dục,Erotische Literatur,Văn học khiêu dâm,de
 tình dục,Sex-Tipps,Mẹo tình dục,de
 tình dục,Pillen Gegen Erektile Dysfunktion,Thuốc rối loạn cương dương,de
 tình dục,Nahrungsergänzungsmittel Zur Steigerung Der Libido,Thuốc bổ sung tăng cường ham muốn tình dục,de
 tình dục,Liebe Machen,Làm tình,de
 tình dục,Masturbation,Thủ dâm,de
 tình dục,Kondom,Bao cao su,de
-tình dục,Verkehr,Giao hợp,de
+tình dục,Geschlechtsverkehr,Giao hợp,de
 tình dục,Koitus,,de
 tình dục,Penis,Dương vật,de
 tình dục,Vagina,Âm đạo,de
@@ -111,7 +107,7 @@ tình dục,Ejakuliert,Xuất tinh,de
 tình dục,Bisexuelle Sexgruppe,Nhóm tình dục lưỡng tính,de
 tình dục,Cunnilingus,Kích thích âm hộ hoặc âm vật bằng miệng,de
 tình dục,Pädophile,Ấu dâm,de
-tình dục,Inzest,Loạn luân,de
+tình dục,Inzestuös,Loạn luân,de
 tình dục,Sexpartner,Bạn tình,de
-tình dục,Hotsex,Tình dục nóng bỏng,de
+tình dục,Heißer Sex,Tình dục nóng bỏng,de
 tình dục,Dating Für Minderjährige,Hẹn hò dưới tuổi vị thành niên,de
